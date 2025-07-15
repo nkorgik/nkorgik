@@ -7,6 +7,7 @@ I'm a full-stack developer with expertise in both Python and TypeScript. I have 
 I'm always up for chatting and collaborating with other curious minds! Find me on these platforms and let's connect:
 
 LinkedIn: [Click to connect!](https://www.linkedin.com/in/almaz-khusnutdinov-99931026b/)
+LeetCode: [Click to see](https://leetcode.com/u/nkorgik/)
 
 **Bonus Fun:**
 
